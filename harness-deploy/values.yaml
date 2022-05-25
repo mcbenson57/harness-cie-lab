@@ -32,4 +32,3 @@ env:
     HARNESS_BUILD: <+pipeline.sequenceId>
   secrets:
     key2: value2
-
